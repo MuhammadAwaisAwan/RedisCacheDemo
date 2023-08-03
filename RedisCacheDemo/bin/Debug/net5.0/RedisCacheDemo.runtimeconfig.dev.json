@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Veroke\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Veroke\\.nuget\\packages"
+    ]
+  }
+}
